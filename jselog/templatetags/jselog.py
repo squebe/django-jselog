@@ -1,6 +1,6 @@
 from django import template
 from django.core.context_processors import csrf
-from jsmin import jsmin
+
 
 register = template.Library()
 
