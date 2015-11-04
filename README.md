@@ -1,0 +1,1 @@
+Jselog is a simple Django app that helps log client side javascript errors on the server.
